@@ -213,7 +213,7 @@ sqlite:
     log-zap: false
 system:
     db-type: mysql
-    oss-type: minio #这里配置上传文件是使用 上传到本地还是 oss服务器
+    oss-type: minio #这里配置上传文件是使用 上传到本地还是 oss服务器上面
     router-prefix: ""
     addr: 8888 #这配置服务监听端口
     iplimit-count: 15000
