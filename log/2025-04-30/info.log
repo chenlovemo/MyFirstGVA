@@ -1,0 +1,13 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 10:31:08.033	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 10:31:08.046	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 10:31:08.047	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 10:31:08.047	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/core/server.go:40	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 10:33:35.270	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	前往初始化数据库
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 12:53:04.084	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 12:53:04.086	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 12:53:04.095	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 12:53:04.096	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/core/server.go:40	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 16:03:42.799	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 16:45:01.192	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 16:46:28.972	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-30 16:46:53.723	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/core/server.go:40	server run success on 	{"address": ":8888"}

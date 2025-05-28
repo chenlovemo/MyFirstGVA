@@ -1,0 +1,12 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:40:43.364	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/gorm.go:84	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:40:43.365	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:63	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:40:43.374	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:116	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:40:43.374	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/core/server.go:40	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:46:11.765	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/gorm.go:84	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:46:11.767	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:63	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:46:11.776	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:116	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:46:11.777	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/core/server.go:40	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:49:04.912	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/gorm.go:84	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:49:04.913	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:63	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:49:04.921	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/initialize/router.go:116	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-16 00:49:04.922	[34minfo[0m	D:/vue/vite/gva/gin-vue-admin/server/core/server.go:40	server run success on 	{"address": ":8888"}

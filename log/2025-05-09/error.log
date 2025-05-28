@@ -1,0 +1,2 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-09 21:50:10.843	[31merror[0m	D:/vue/vite/gva/gin-vue-admin/server/utils/claims.go:49	重新写入cookie token失败,未能成功解析token,请检查请求头是否存在x-token且claims是否为规定结构
+[github.com/flipped-aurora/gin-vue-admin/server]2025-05-09 21:50:10.843	[31merror[0m	D:/vue/vite/gva/gin-vue-admin/server/utils/claims.go:62	从Gin的Context中获取从jwt解析信息失败, 请检查请求头是否存在x-token且claims是否为规定结构
